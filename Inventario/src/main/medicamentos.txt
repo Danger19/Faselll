@@ -1,0 +1,5 @@
+Ibuprofeno,2055-11-13,10,Torre 1, estante 2,5
+Paracetamol,2030-12-15,500,Torre 1, estante 3,5
+Montelucast,2028-03-30,10,Torre 2, estante 1,30
+Omeprazol,2026-03-20,10,Torre 5, estante 1,10
+Ambroxol,2028-04-10,10,Torre 5, estante 1,20

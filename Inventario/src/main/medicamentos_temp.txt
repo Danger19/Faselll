@@ -1,0 +1,4 @@
+Paracetamol,2030-12-13,10,Torre 1, estante 2,5
+Montelucast,2030-12-15,10,Torre 1, estante 3,2
+Ibuprofeno,2055-11-13,10,Torre 1, estante 2,10
+

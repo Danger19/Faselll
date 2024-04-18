@@ -5,13 +5,12 @@
  Taller de Productividad - Fase II
 
 ## Problema
- Taller de Productividad - Fase II
+El sistema actual de inventario está completamente obsoleto y su mayor error es que produce inconsistencias en los registros de inventario. Esto produce errores en la cantidad de medicamentos registrados por unidad, haciendo imposible una correcta y optima gestión del almacén que provoca a veces falta de stock, exceso de stock debido a compras innecesarias y medicamentos vencidos.
 
 ## Solución
  Taller de Productividad - Fase II
 
 ## Arquitectura
- Taller de Productividad - Fase II
  
 
  ## Tabla de Contenidos

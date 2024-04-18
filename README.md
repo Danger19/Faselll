@@ -17,7 +17,7 @@
 
  ## Tabla de Contenidos
  - [Requerimientos](https://github.com/Danger19/Faselll?tab=readme-ov-file#requerimientos)
- - Instalación
+ - [Instalación](https://github.com/Danger19/Faselll?tab=readme-ov-file#instalaci%C3%B3n)
  - Configuración
  
  ### Requerimientos

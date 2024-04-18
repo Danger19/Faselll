@@ -3,7 +3,8 @@
 
 ## Descripción
 Sistema de inventario para el área de almacén de un hospital que guarde los datos en archivos .txt
-+Cuenta con las siguientes funcionalidades:
+
+Cuenta con las siguientes funcionalidades:
 * Añadir medicamentos: Nombre, caducidad, gramaje, ubicación, cantidad.
 * Eliminar medicamentos: Desplegar lista y seleccionar para eliminar.
 * Actualizar cantidad: Seleccionar de la lista un medicamento y actualizar la cantidad de stock disponible. 

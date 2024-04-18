@@ -20,7 +20,7 @@
  - [Configuración](https://github.com/Danger19/Faselll?tab=readme-ov-file#instalaci%C3%B3n)
  - [Uso](https://github.com/Danger19/Faselll/blob/develop/README.md#uso)
  - [Contribución](https://github.com/Danger19/Faselll/blob/develop/README.md#contribuci%C3%B3n)
- - [Roadmap]
+ - [Roadmap](https://github.com/Danger19/Faselll/blob/develop/README.md#roadmap)
  ### Requerimientos
  Información
 
